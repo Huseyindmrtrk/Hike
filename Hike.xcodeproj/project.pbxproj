@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2581ADE32D22D92B001D0CE8 /* Hike */ = {
+		2581AE1D2D22DDB8001D0CE8 /* Hike */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Hike;
 			sourceTree = "<group>";
@@ -32,8 +32,8 @@
 		2581ADD82D22D92B001D0CE8 = {
 			isa = PBXGroup;
 			children = (
-				2581ADE32D22D92B001D0CE8 /* Hike */,
 				2581ADE22D22D92B001D0CE8 /* Products */,
+				2581AE1D2D22DDB8001D0CE8 /* Hike */,
 			);
 			sourceTree = "<group>";
 		};
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2581ADE32D22D92B001D0CE8 /* Hike */,
+				2581AE1D2D22DDB8001D0CE8 /* Hike */,
 			);
 			name = Hike;
 			packageProductDependencies = (
